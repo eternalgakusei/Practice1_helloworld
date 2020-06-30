@@ -1,2 +1,5 @@
 # Practice1_helloworld
-print("hello world")
+# Insert comma
+A = "Sekai"
+B = "konnichiwa!"
+print(A + ", " + B)
